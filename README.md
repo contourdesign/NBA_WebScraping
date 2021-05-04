@@ -1,6 +1,6 @@
 # NBA_WebScraping
 ### --------------
-<br>
+
 ## Tasks:
 
 
