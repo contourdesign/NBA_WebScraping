@@ -1,7 +1,7 @@
 # NBA_WebScraping
 ### --------------
 <br>
-Tasks:
+## Tasks:
 
 
 ## 1. Scrape the web using BeautifulSoup
